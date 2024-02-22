@@ -1,4 +1,4 @@
-# hello-world on github on 22 feb 
+# hello-world on github on 22 feb 2024
 Hello World repository for Git tutorial
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
